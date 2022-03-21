@@ -481,7 +481,7 @@
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/redis.png",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/redis-cluster/docker-stack.yaml"
       },
       "env": [
@@ -832,7 +832,7 @@
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/portainer.png",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/portainer-agent/docker-stack.yml"
       }
     },
@@ -863,7 +863,7 @@
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/ironfunctions.png",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/ironfunctions/docker-stack.yml"
       }
     },
@@ -878,7 +878,7 @@
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/cockroachdb.png",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/cockroachdb/docker-stack.yml"
       }
     },
@@ -893,7 +893,7 @@
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/wordpress.png",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/wordpress/docker-stack.yml"
       },
       "env": [
@@ -925,7 +925,7 @@
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/intel.png",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/openamt/docker-compose.yml"
       },
       "env": [
@@ -972,7 +972,7 @@
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/microsoft.png",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/microsoft-oms/docker-stack.yml"
       },
       "env": [
@@ -999,7 +999,7 @@
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/sematext_agent.png",
       "platform": "linux",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/sematext-agent-docker/docker-stack.yml"
       },
       "env": [
@@ -1023,7 +1023,7 @@
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/datadog_agent.png",
       "platform": "linux",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/datadog-agent/docker-stack.yml"
       },
       "env": [
@@ -1047,7 +1047,7 @@
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/intel.png",
       "repository": {
-        "url": "https://github.com/romanstark/templates/tree/main",
+        "url": "https://github.com/romanstark/templates",
         "stackfile": "stacks/fdo/docker-stack.yml"
       },
       "env": [
